@@ -1,0 +1,1 @@
+.\"nama env kita"\Scripts\Activate.ps1 = untuk masuk ke virtualenv yang telah kita buat ganti "nama env kita" menjadi nama env kita
